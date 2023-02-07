@@ -19,7 +19,7 @@ locale                   : "en-US"
 title                    : "생각 휴지통"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
-name                     : "장현영"
+name                     : "Young"
 description              : "생각을 던져두고 다시 보기 위한 "
 url                      : "https://ever-student.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
@@ -104,9 +104,9 @@ analytics:
 
 # Site Author
 author:
-  name             : "장현영"
+  name             : "Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "척척박사가 되고 싶은 공대생."
+  bio              : "무엇이든 알고 싶은 싶은 공대생."
   location         : "Seoul, Korea"
   email            : janghy0402@gmail.com
   links:
