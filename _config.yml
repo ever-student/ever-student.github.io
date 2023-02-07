@@ -106,7 +106,7 @@ analytics:
 author:
   name             : "Young"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "많은 것을 알고 싶은 평범한 공대생."
+  bio              : "많은 것을 알고 싶은 공대생."
   location         : "Seoul, Korea"
   email            : "janghy0402@gmail.com"
   links:
