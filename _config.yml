@@ -108,7 +108,7 @@ author:
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
   bio              : "무엇이든 알고 싶은 싶은 공대생."
   location         : "Seoul, Korea"
-  email            : janghy0402@gmail.com
+  email            : "janghy0402@gmail.com"
   links:
     - label: "Email"
       icon: "fas fa-fw fa-envelope-square"
