@@ -16,11 +16,11 @@ minimal_mistakes_skin    : "default" # "air", "aqua", "contrast", "dark", "dirt"
 
 # Site Settings
 locale                   : "en-US"
-title                    : "생각 휴지통"
+title                    : "생각 수납함"
 title_separator          : "-"
 subtitle                 : # site tagline that appears below site title in masthead
 name                     : "Young"
-description              : "생각을 던져두고 다시 보기 위한 "
+description              : "생각을 던져두고 다시 보기 위한 블로그"
 url                      : "https://ever-student.github.io"
 baseurl                  : # the subpath of your site, e.g. "/blog"
 repository               : # GitHub username/repo-name e.g. "mmistakes/minimal-mistakes"
